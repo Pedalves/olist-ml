@@ -14,6 +14,9 @@ pandas = "*"
 ipykernel = "*"
 jupyterlab = "*"
 tensorflow = "*"
+nltk = "*"
+gensim = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.6"
