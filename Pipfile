@@ -17,6 +17,7 @@ tensorflow = "*"
 nltk = "*"
 gensim = "*"
 wordcloud = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.6"
