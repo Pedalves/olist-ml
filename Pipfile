@@ -18,6 +18,7 @@ nltk = "*"
 gensim = "*"
 wordcloud = "*"
 plotly = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.6"
